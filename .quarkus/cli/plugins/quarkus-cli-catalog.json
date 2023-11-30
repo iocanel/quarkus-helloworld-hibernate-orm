@@ -1,0 +1,13 @@
+{
+  "version" : "v1",
+  "lastUpdate" : "30/11/2023 11:11:14",
+  "plugins" : {
+    "kubevirt-cli-999-SNAPSHOT-runner" : {
+      "name" : "kubevirt-cli-999-SNAPSHOT-runner",
+      "type" : "jar",
+      "location" : ".quarkus/cli/plugins/quarkus-kubevirt-cli-999-SNAPSHOT-runner.jar",
+      "description" : null,
+      "inProjectCatalog" : true
+    }
+  }
+}
