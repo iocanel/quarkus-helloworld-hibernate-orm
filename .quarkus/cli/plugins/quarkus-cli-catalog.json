@@ -2,10 +2,10 @@
   "version" : "v1",
   "lastUpdate" : "30/11/2023 11:11:14",
   "plugins" : {
-    "kubevirt-cli-999-SNAPSHOT-runner" : {
-      "name" : "kubevirt",
+    "openshift-vm-cli-999-SNAPSHOT-runner" : {
+      "name" : "openshift-vm",
       "type" : "jar",
-      "location" : ".quarkus/cli/plugins/quarkus-kubevirt-cli-999-SNAPSHOT-runner.jar",
+      "location" : ".quarkus/cli/plugins/quarkus-openshift-vm-cli-999-SNAPSHOT-runner.jar",
       "description" : null,
       "inProjectCatalog" : true
     }
